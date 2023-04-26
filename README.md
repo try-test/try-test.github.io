@@ -1,0 +1,11 @@
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+
+This repository is built step by step in the tutorial.
+
+Commit directly from the github
+
+Again changes directly form the GitHub.
+
+Changes goes here...
